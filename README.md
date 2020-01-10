@@ -53,7 +53,7 @@ We have two recommendation systems (five models). Here are the steps to reproduc
 ## Files Description
 ```
 exploitation
-|_ dimension-reduction-and-clustering.ipynb: analyze the data via dimension reduction and apply various clustering methods.
+|_  dimension-reduction-and-clustering.ipynb: analyze the data via dimension reduction and apply various clustering methods.
 
 exploration
 |_  figure
