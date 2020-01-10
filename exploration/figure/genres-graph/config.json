@@ -10,7 +10,7 @@
   "text": {
     "more": "",
     "intro": "Movie Graph with nodes as movies\u0027 ID and edges computed by the distance between two movies\u0027 genres one-hot vector",
-    "title": "User Graph"
+    "title": "Movie Graph"
   },
   "legend": {
     "edgeLabel": "642422",
