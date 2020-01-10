@@ -10,7 +10,7 @@
   "text": {
     "more": "",
     "intro": "User Graph with nodes as users\u0027 ID and edges computed by the distance between two users\u0027 occupation one-hot vector",
-    "title": "Job Graph"
+    "title": "User Graph"
   },
   "legend": {
     "edgeLabel": "41326",
@@ -24,7 +24,7 @@
   },
   "informationPanel": {
     "groupByEdgeDirection": false,
-    "imageAttribute": "Modularity Class"
+    "imageAttribute": "Label"
   },
   "sigma": {
     "drawingProperties": {
