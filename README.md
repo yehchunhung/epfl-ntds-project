@@ -52,6 +52,13 @@ We have two recommendation systems (five models). Here are the steps to reproduc
 
 ## Files Description
 ```
+exploration
+|_  figure
+    |_ genres-graph/: folder for movie genres graph visualization files.
+    |_ job-graph/: folder for user occupation graph visualization files.
+|_  data-exploration.ipynb: exploratory data analysis and graph creation from MovieLens 100k.
+|_  classification.ipynb: analyze and classify raw data from MovieLens 100k.
+
 recommenders
 |_  gc-mc
     |_  data/: folder for dataset files.
